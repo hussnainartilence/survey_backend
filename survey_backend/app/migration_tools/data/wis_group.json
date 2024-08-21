@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "description": "Administrators",
+    "delegate_user_id": null,
+    "delegate_group_id": null
+  },
+  {
+    "id": 2,
+    "name": "data_explorer",
+    "description": "Data explorers",
+    "delegate_user_id": null,
+    "delegate_group_id": null
+  }
+]
